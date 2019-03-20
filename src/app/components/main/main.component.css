@@ -1,0 +1,15 @@
+.caja {
+    margin: 5px;
+    width: 450px;
+    height: 450px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    -webkit-box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px -6px rgba(0,0,0,0.75);
+}
+
+.grafica {
+    width: 100%;
+    height: auto;
+}
